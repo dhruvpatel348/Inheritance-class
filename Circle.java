@@ -1,5 +1,6 @@
 public class Circle extends Point
 {
+	//Great
 	protected double radius;
 
 	public Circle()
